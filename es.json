@@ -1,0 +1,36 @@
+{
+  "consentModal": {
+    "title": "Utilizamos cookies",
+    "description": "Descripción del modal de cookies",
+    "acceptAllBtn": "Aceptar todo",
+    "acceptNecessaryBtn": "Rechazar todo",
+    "showPreferencesBtn": "Gestionar preferencias"
+  },
+  "preferencesModal": {
+    "title": "Gestionar las preferencias de cookies",
+    "acceptAllBtn": "Aceptar todo",
+    "acceptNecessaryBtn": "Rechazar todo",
+    "savePreferencesBtn": "Guardar preferencias",
+    "closeIconLabel": "Cerrar modal",
+    "sections": [
+      {
+        "title": "¿Alguien dijo ... cookies?",
+        "description": "¡Yo quiero uno!"
+      },
+      {
+        "title": "Cookies estrictamente necesarias",
+        "description": "Estas cookies son esenciales para el correcto funcionamiento del sitio web y no se pueden desactivar.",
+        "linkedCategory": "necessary"
+      },
+      {
+        "title": "Rendimiento y Análisis",
+        "description": "Estas cookies recopilan información sobre cómo utiliza nuestro sitio web. Todos los datos son anonimizados y no se pueden utilizar para identificarlo.",
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "Más información",
+        "description": "Para cualquier pregunta relacionada con mi política de cookies y sus opciones, por favor <a href=\"#contact-page\">contáctenos</a>."
+      }
+    ]
+  }
+}
