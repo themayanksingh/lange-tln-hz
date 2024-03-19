@@ -1,7 +1,8 @@
 {
   "consentModal": {
     "title": "We use cookies to improve your experience.",
-    "description": "Cookie modal description",
+    "description": "By clicking 'Accept All Cookies', you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+",
     "acceptAllBtn": "Accept all",
     "acceptNecessaryBtn": "Reject all",
     "showPreferencesBtn": "Manage preferences"
@@ -29,7 +30,7 @@
       },
       {
         "title": "More information",
-        "description": "For any queries in relation to my policy on cookies and your choices, please <a href=\"#contact-page\">contact us</a>"
+        "description": "For any queries in relation to our policy on cookies and your choices, please <a href=\"#contact-page\">contact us</a>"
       }
     ]
   }
