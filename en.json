@@ -18,8 +18,8 @@
         "description": "I want one!"
       },
       {
-        "title": "Strictly Necessary cookies",
-        "description": "These cookies are essential for the proper functioning of the website and cannot be disabled.",
+        "title": "Analytics Cookies",
+        "description": "These cookies gather information about how users interact with the website, such as which pages are visited most frequently, how long users spend on each page, and any error messages encountered.",
         "linkedCategory": "necessary"
       },
       {
