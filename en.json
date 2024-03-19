@@ -19,17 +19,17 @@
       },
       {
         "title": "Analytics Cookies",
-        "description": "These cookies gather information about how users interact with the website, such as which pages are visited most frequently, how long users spend on each page, and any error messages encountered.",
-        "linkedCategory": "necessary"
-      },
-      {
-        "title": "Performance and Analytics",
         "description": "These cookies collect information about how you use our website. All of the data is anonymized and cannot be used to identify you.",
         "linkedCategory": "analytics"
       },
       {
+        "title": "Advertisement Cookies",
+        "description": "These cookies are used to deliver personalized advertisements and track advertising performance.",
+        "linkedCategory": "advertisement"
+      },
+      {
         "title": "More information",
-        "description": "For any queries in relation to our policy on cookies and your choices, please <a href=\"#contact-page\">contact us</a>"
+        "description": "For any queries about our policy on cookies and your choices, please <a href=\"#contact-page\">contact us</a>"
       }
     ]
   }
