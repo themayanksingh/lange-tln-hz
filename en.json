@@ -18,6 +18,11 @@
         "description": "We use data collected by cookies and JavaScript libraries to improve your browsing experience, analyze site traffic, deliver personalized advertisements, and increase the overall performance of our site."
       },
       {
+        "title": "Strictly Necessary Cookies",
+        "description": "These cookies are essential for the website to function properly. You can't disable these cookies",
+        "linkedCategory": "necessary"
+      },
+      {
         "title": "Analytics Cookies",
         "description": "These cookies collect information about how you use our website. All of the data is anonymized and cannot be used to identify you.",
         "linkedCategory": "analytics"
@@ -25,7 +30,7 @@
       {
         "title": "Advertisement Cookies",
         "description": "These cookies are used to deliver personalized advertisements and track advertising performance.",
-        "linkedCategory": "advertisement"
+        "linkedCategory": "marketing"
       }
     ]
   }
